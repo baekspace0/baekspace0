@@ -1,11 +1,6 @@
 <p align="center">
   <img src="assets/banner.png" alt="baekspace0" width="100%" />
 </p>
-
-# 👋 Hi, I'm Ji Baek Lee (baekspace0)
-...
-
-
 # 👋 Hi, I'm JiBaek Lee ( baekspace0 )
 
 Welcome to my space of development, creativity, and growth.
