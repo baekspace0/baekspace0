@@ -1,9 +1,10 @@
 <p align="center">
   <img src="assets/banner_cropped.png" alt="baekspace0" width="100%" />
 </p>
+
 # 👋 Hi, I'm Ji Baek Lee — `baekspace0`
 
-I build ideas into reality through code,  
+I build ideas into reality through code, 
 navigating the space between imagination and execution.
 
 ## 🪐 About Me
@@ -23,9 +24,9 @@ I’m currently working on:
 - 🛰️ Discord bots & Minecraft plugin automation
 
 ## 📫 Contact
-- Email: your.email@example.com  
+- Email: baekspace0@gmail.com  
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(optional)*  
-- Blog: [yourblog.com](https://yourblog.com) *(optional)*
+- Blog: [yourblog.com]([https://yourblog.com](https://velog.io/@jblee2394/posts)) *(optional)*
 
 ---
 
