@@ -26,7 +26,7 @@ I’m currently working on:
 ## 📫 Contact
 - Email: baekspace0@gmail.com  
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(optional)*  
-- Blog: [velog.io]([https://yourblog.com](https://velog.io/@jblee2394/posts)) *(optional)*
+- Blog: [velog.io](https://velog.io/@jblee2394/posts) *(optional)*
 
 ---
 
