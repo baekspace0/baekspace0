@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="baekspace0" width="100%" />
+  <img src="assets/banner_cropped.png" alt="baekspace0" width="100%" />
 </p>
 # 👋 Hi, I'm Ji Baek Lee — `baekspace0`
 
